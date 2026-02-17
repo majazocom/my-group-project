@@ -1,2 +1,2 @@
 # my-group-project
-repo öcer ett kul projekt
+repo över ett kul projekt
